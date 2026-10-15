@@ -1,0 +1,7 @@
+/build/
+/.valen/
+*.o
+*.obj
+*.exe
+*.pdb
+
